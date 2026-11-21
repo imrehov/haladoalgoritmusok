@@ -1,0 +1,3 @@
+﻿  TravellingSalesman.cpp
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\TravellingSalesman.cpp(37,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Optimization.vcxproj -> C:\Users\imreh\git\LIVRB1_HalAl\Bin\Debug\Optimization.exe

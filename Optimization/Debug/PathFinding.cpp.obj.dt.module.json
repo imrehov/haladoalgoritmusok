@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\PathFinding.obj",
+            "outputs": [
+                "Debug\\PathFinding.cpp.obj.dt.module.json",
+                "Debug\\PathFinding.cpp.obj.dt.d.json",
+                "Debug\\Optimization.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
