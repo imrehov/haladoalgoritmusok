@@ -1,1 +1,5 @@
-﻿
+﻿  stdafx.cpp
+  Animlog.cpp
+  Random.cpp
+  TextLog.cpp
+  Utils.vcxproj -> C:\Users\imreh\git\LIVRB1_HalAl\Release\Utils.lib

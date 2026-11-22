@@ -85,6 +85,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="FunctionApproximation.h" />
+    <ClInclude Include="genetictsp.h" />
+    <ClInclude Include="hillclimbfunc.h" />
     <ClInclude Include="ImageSegmentation.h" />
     <ClInclude Include="kmeansimg.h" />
     <ClInclude Include="stdafx.h" />
@@ -93,6 +95,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FunctionApproximation.cpp" />
+    <ClCompile Include="genetictsp.cpp" />
+    <ClCompile Include="hillclimbfunc.cpp" />
     <ClCompile Include="ImageSegmentation.cpp" />
     <ClCompile Include="kmeansimg.cpp" />
     <ClCompile Include="stdafx.cpp">

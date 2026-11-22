@@ -1,1 +1,17 @@
-﻿
+﻿  kmeansimg.cpp
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(14,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(62,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(65,28): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 841 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Optimization.vcxproj -> C:\Users\imreh\git\LIVRB1_HalAl\Bin\Release\Optimization.exe

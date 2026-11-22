@@ -1,0 +1,45 @@
+Info	KMeans K=2 run=1 time_ms=1.704200
+Info	KMeans K=2 run=2 time_ms=2.261200
+Info	KMeans K=2 run=3 time_ms=1.727500
+Info	KMeans K=2 run=4 time_ms=1.721700
+Info	KMeans K=2 run=5 time_ms=1.487300
+Info	KMeans K=3 run=1 time_ms=5.102900
+Info	KMeans K=3 run=2 time_ms=3.081800
+Info	KMeans K=3 run=3 time_ms=1.622900
+Info	KMeans K=3 run=4 time_ms=3.589800
+Info	KMeans K=3 run=5 time_ms=1.970900
+Info	KMeans K=5 run=1 time_ms=6.819300
+Info	KMeans K=5 run=2 time_ms=6.461300
+Info	KMeans K=5 run=3 time_ms=9.950600
+Info	KMeans K=5 run=4 time_ms=7.444200
+Info	KMeans K=5 run=5 time_ms=9.845000
+Info	HillClimbing restarts=1 run=1 SSE=13.475741 time_ms=21.617200 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=1 run=2 SSE=13.475741 time_ms=21.552300 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=1 run=3 SSE=13.475741 time_ms=21.666500 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=1 run=4 SSE=13.475741 time_ms=21.865100 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=1 run=5 SSE=13.475741 time_ms=21.798300 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=5 run=1 SSE=13.475741 time_ms=416.300700 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=5 run=2 SSE=13.475741 time_ms=418.514100 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=5 run=3 SSE=13.475741 time_ms=359.769500 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=5 run=4 SSE=13.474501 time_ms=408.122700 coefficients=-0.000402 0.539355 -0.000004 -0.017032 0.038686 
+Info	HillClimbing restarts=5 run=5 SSE=13.475741 time_ms=407.278600 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=10 run=1 SSE=13.475741 time_ms=826.601800 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	HillClimbing restarts=10 run=2 SSE=13.474711 time_ms=862.421300 coefficients=-0.000330 0.503397 -0.001281 -0.008472 0.044647 
+Info	HillClimbing restarts=10 run=3 SSE=13.474094 time_ms=877.138100 coefficients=-0.000336 0.528510 -0.001214 -0.014047 0.044470 
+Info	HillClimbing restarts=10 run=4 SSE=13.473883 time_ms=855.823800 coefficients=-0.000393 0.788499 -0.000431 -0.015585 0.039353 
+Info	HillClimbing restarts=10 run=5 SSE=13.475741 time_ms=913.927400 coefficients=-0.000322 0.000000 -0.000917 0.000002 0.044849 
+Info	GeneticTSP generations=250 run=1 distance=1483.352051 time_ms=101.952500
+Info	GeneticTSP generations=250 run=2 distance=1371.399048 time_ms=100.239500
+Info	GeneticTSP generations=250 run=3 distance=1445.538940 time_ms=102.103600
+Info	GeneticTSP generations=250 run=4 distance=1446.134766 time_ms=101.345400
+Info	GeneticTSP generations=250 run=5 distance=1493.452026 time_ms=97.756800
+Info	GeneticTSP generations=500 run=1 distance=1123.701782 time_ms=196.437800
+Info	GeneticTSP generations=500 run=2 distance=960.065613 time_ms=197.869200
+Info	GeneticTSP generations=500 run=3 distance=1167.425659 time_ms=198.244400
+Info	GeneticTSP generations=500 run=4 distance=1015.769348 time_ms=195.459000
+Info	GeneticTSP generations=500 run=5 distance=1182.009155 time_ms=194.556300
+Info	GeneticTSP generations=1500 run=1 distance=935.719543 time_ms=572.037100
+Info	GeneticTSP generations=1500 run=2 distance=916.229126 time_ms=573.086900
+Info	GeneticTSP generations=1500 run=3 distance=941.342834 time_ms=579.026000
+Info	GeneticTSP generations=1500 run=4 distance=927.189209 time_ms=576.436800
+Info	GeneticTSP generations=1500 run=5 distance=935.915405 time_ms=566.847900

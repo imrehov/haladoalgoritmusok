@@ -45,6 +45,12 @@
     <ClInclude Include="kmeansimg.h">
       <Filter>Header Files\Solvers</Filter>
     </ClInclude>
+    <ClInclude Include="hillclimbfunc.h">
+      <Filter>Header Files\Solvers</Filter>
+    </ClInclude>
+    <ClInclude Include="genetictsp.h">
+      <Filter>Header Files\Solvers</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -63,6 +69,12 @@
       <Filter>Source Files\Problems</Filter>
     </ClCompile>
     <ClCompile Include="kmeansimg.cpp">
+      <Filter>Source Files\Solvers</Filter>
+    </ClCompile>
+    <ClCompile Include="hillclimbfunc.cpp">
+      <Filter>Source Files\Solvers</Filter>
+    </ClCompile>
+    <ClCompile Include="genetictsp.cpp">
       <Filter>Source Files\Solvers</Filter>
     </ClCompile>
   </ItemGroup>

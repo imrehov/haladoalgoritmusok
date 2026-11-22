@@ -1,3 +1,17 @@
-﻿  TravellingSalesman.cpp
+﻿  kmeansimg.cpp
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(14,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(62,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\imreh\git\LIVRB1_HalAl\Optimization\kmeansimg.cpp(65,28): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  main.cpp
+  TravellingSalesman.cpp
 C:\Users\imreh\git\LIVRB1_HalAl\Optimization\TravellingSalesman.cpp(37,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
   Optimization.vcxproj -> C:\Users\imreh\git\LIVRB1_HalAl\Bin\Debug\Optimization.exe

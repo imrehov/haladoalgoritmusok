@@ -1,5 +1,7 @@
+#include "stdafx.h"
 #include "kmeansimg.h"
 #include "../Utils/Random.h"
+
 
 
 KMeansImage::KMeansImage(const int initialK)

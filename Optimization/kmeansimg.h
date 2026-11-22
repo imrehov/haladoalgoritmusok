@@ -2,8 +2,9 @@
 #include <vector>
 
 #include "ImageSegmentation.h"
+#include "stdafx.h"
 
-class KMeansImage : ImageSegmentation
+class KMeansImage : public ImageSegmentation
 {
 
 public:
